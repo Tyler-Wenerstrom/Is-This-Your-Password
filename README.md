@@ -6,9 +6,9 @@ This challenge focused on generating a random password using numbers, lowercase,
 I do realize the numbers are included regardless of selection. Edits may soon be coming.
 
 ## Links
-https://tyler-wenerstrom.github.io/TRW-Portfolio/
+https://tyler-wenerstrom.github.io/Is-This-Your-Password/
 
-<img src= "images\trw portfolio.png" width="375" height="475" alt="Screenshot"/>
+<img src= "password.png" width="375" height="450" alt="Screenshot"/>
 
 ## Author
 https://github.com/Tyler-Wenerstrom
