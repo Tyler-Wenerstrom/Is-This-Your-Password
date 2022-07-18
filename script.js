@@ -18,7 +18,7 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword); 
 
 function generatePassword() {
-  var charAmount = prompt("How many Characters would you like to use? Must be: 12-128.");
+  var charAmount = prompt("How many Characters would you like to use? Must be: 8-128.");
   var numbers = confirm("Include numbers?");
   var lowerCase = confirm("Include LowerCase?");
   var upperCase = confirm("Include UpperCase?");
